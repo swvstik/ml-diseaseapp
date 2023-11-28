@@ -1,4 +1,4 @@
 streamlit
+streamlit_option_menu
 pandas
 numpy
-streamlit_option_menu
